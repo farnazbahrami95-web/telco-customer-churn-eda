@@ -22,7 +22,7 @@ The goal is to understand which customer characteristics are related to **churn*
 - Churned customers have a much shorter tenure (median 10 months vs 38 months)
 - Churned customers pay more per month (median about 79.65 vs 64.43)
 - Month-to-month contracts have a much higher churn rate (about 42.7%) than two-year contracts (about 2.8%)
-
+![Churn distribution](churn_distribution.png)
 ## Tools
 Python, pandas, NumPy, Matplotlib, Seaborn, Plotly
 
