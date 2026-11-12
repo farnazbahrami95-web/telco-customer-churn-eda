@@ -40,4 +40,4 @@ Open the notebook and run all cells. Keep the CSV file in the same folder as the
 ## Note
 The interactive Plotly chart does not render on GitHub. Run the notebook locally to see it.telco-customer-churn-eda
 Exploratory data analysis of Telco customer churn using Python, pandas, seaborn and plotly
-![Churn distribution](churn_distribution.png)
+
